@@ -1,0 +1,11 @@
+# Spieldateien, Keys, Spielstände – niemals einchecken
+game/
+# Entpackte Daten und Dumps
+work/
+# Heruntergeladene Werkzeuge
+tools/hactool/
+tools/il2cppdumper/
+# Build-Ausgaben
+build*/
+out/
+__pycache__/
